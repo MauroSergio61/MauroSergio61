@@ -4,6 +4,7 @@
   <b>Java Back-end Developer | Spring Boot | REST APIs</b><br>
   From Brasília, Brazil 🇧🇷 — Available for remote / international projects
 </p>
+
 ---
 
 ## 📊 GitHub Stats
