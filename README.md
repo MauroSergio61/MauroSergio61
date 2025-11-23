@@ -14,7 +14,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About me
 
 - 🎓 Graduated in **Internet Systems** at *Instituto Federal de Brasília (IFB)*
@@ -24,68 +23,23 @@
 - 🎯 Goal: Work remotely with international companies / clients
 
 ---
+## About
 
-## 🚀 Tech Stack
-
-**Back-end**
-- Java • Spring Boot • REST API • JPA / Hibernate
-- Authentication (JWT - learning)
-- PostgreSQL • MySQL
-
-**Front-end (basic)**
-- JavaScript • Angular • React Native
-
-**Mobile**
-- Java • Android Studio
-
-**Tools & Others**
-- Git • GitHub • Postman • Swagger
-- Clean Code • MVC • DTO • API Documentation
+🎓 Graduated in **Internet Systems – Instituto Federal de Brasília (IFB)**  
+💻 Focused on **Java Back-end Development** using **Spring Boot**  
+💼 Experience as **Freelance Developer** (projects with Java, Spring Boot and Android)  
+🌍 Looking for **remote and international opportunities**
 
 ---
+## Tech Stack
 
-## 💼 Experience
-
-**Java Back-end Developer — Freelance Projects (2024 – Present)**  
-- Developed 2 complete **CRUD REST APIs** using **Java + Spring Boot**
-- Implemented validations, exception handling and business rules
-- Organized application layers (Controller, Service, Repository)
-- Created basic Android apps with **Java (Android Studio)**
-- Tested endpoints using **Postman**
+Java • Spring Boot • REST API • JPA / Hibernate  
+PostgreSQL • MySQL • Git • GitHub • Postman  
+Android (Java) • JavaScript (basic)
 
 ---
+## Contact
 
-## 🧩 Featured Projects
-
-📚 **Library Management System – Spring Boot**  
-REST API with complete CRUD, validations and database integration
-
-🧮 **Android Apps – Java**  
-Simple applications focused on logic and calculations
-
-📱 **Mobile Health App (TCC)**  
-Vaccine recommendation app developed with React Native
-
-➡️ More projects on my repositories 👇
-
----
-
-
-
-## 🌎 Languages
-
-- Portuguese — Native
-- English — Basic / Studying
-- Spanish — Basic / Studying
-
----
-
-## 📫 Contact me
-
-- 📧 Email: **maurosergio1998@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/mauro-sergio1861](https://www.linkedin.com/in/mauro-sergio1861/)
-- 🐙 GitHub: [github.com/MauroSergio61](https://github.com/MauroSergio61)
-
----
-
-⭐ If you like my work, feel free to follow and connect with me!
+📧 **Email:** maurosergio1998@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/mauro-sergio1861  
+🐙 **GitHub:** https://github.com/MauroSergio61
