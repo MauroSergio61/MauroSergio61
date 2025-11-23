@@ -5,6 +5,7 @@
   From Brasília, Brazil 🇧🇷 — Available for remote / international projects
 </p>
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
