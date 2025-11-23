@@ -6,6 +6,14 @@
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauroSergio61&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSergio61&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
 
 ## 👨‍💻 About me
 
@@ -62,14 +70,7 @@ Vaccine recommendation app developed with React Native
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MauroSergio61&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSergio61&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 🌎 Languages
 
