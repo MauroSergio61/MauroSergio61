@@ -8,8 +8,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSergio61&layout=compact)
-
+## Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauroSergio61&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroSergio61&layout=compact&theme=radical)
 
 ---
 ## 👨‍💻 About me
